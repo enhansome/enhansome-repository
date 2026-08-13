@@ -1,0 +1,276 @@
+{
+  "items": [
+    {
+      "description": "Guides to build and promote awesome open source projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Side Project Marketing Checklist",
+          "description": "Comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-08T11:21:11Z",
+            "owner": "draftdev",
+            "repo": "startup-marketing-checklist",
+            "stars": 5634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Contributing",
+          "description": "Awesome contributing guides for open source development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-18T20:15:20Z",
+            "owner": "mntnr",
+            "repo": "awesome-contributing",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub's \"Tools for Open Source\" Collection",
+          "description": "Software to make running your open source project a little bit easier.",
+          "children": []
+        }
+      ],
+      "title": "Guides and lists"
+    },
+    {
+      "description": "Services and documentation for authors, contributors, maintainers and sustainers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contributor License Agreement assistant",
+          "description": "CLA assistant enables contributors to sign CLAs from within a pull request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T18:02:59Z",
+            "owner": "cla-assistant",
+            "repo": "cla-assistant",
+            "stars": 1529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sustain.md (WIP)",
+          "description": "The file every project should have in their repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-21T15:36:21Z",
+            "owner": "sustainers",
+            "repo": "sustain.md",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "People involved"
+    },
+    {
+      "description": "Improve a repository, its management and its contributions from the community.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic-Release",
+          "description": "Fully automated package publishing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:03:04Z",
+            "owner": "semantic-release",
+            "repo": "semantic-release",
+            "stars": 23974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flint",
+          "description": "Check your project for common sources of contributor friction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-02-28T21:24:10Z",
+            "owner": "pengwynn",
+            "repo": "flint",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Settings",
+          "description": "Sync repository settings defined in to GitHub, enabling Pull Requests for repository settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:16:29Z",
+            "owner": "repository-settings",
+            "repo": "app",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo Linter",
+          "description": "Lint open source repositories for common issues.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T16:05:36Z",
+            "owner": "todogroup",
+            "repo": "repolinter",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build A Space",
+          "description": "Automatically add community documentation to your repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-16T09:52:04Z",
+            "owner": "mntnr",
+            "repo": "build-a-space",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Repository (general)"
+    },
+    {
+      "description": "Auto-generate or get help to choose or improve files or file contents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Changelog Generator",
+          "description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-18T00:32:15Z",
+            "owner": "github-changelog-generator",
+            "repo": "github-changelog-generator",
+            "stars": 7535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocToc",
+          "description": "Generate table of contents for markdown files inside local git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T16:02:57Z",
+            "owner": "thlorenz",
+            "repo": "doctoc",
+            "stars": 4461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-Changelog",
+          "description": "Command line tool for generating a changelog from git tags and commit history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-29T16:20:05Z",
+            "owner": "cookpete",
+            "repo": "auto-changelog",
+            "stars": 1392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towncrier",
+          "description": "Building newsfiles for your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:45:32Z",
+            "owner": "twisted",
+            "repo": "towncrier",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weallbehave",
+          "description": "Command-line tool for automatically generating and updating the CODE_OF_CONDUCT.md for your projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-27T21:53:20Z",
+            "owner": "WeAllJS",
+            "repo": "weallbehave",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weallcontribute",
+          "description": "Command-line tool for automatically generating and updating CONTRIBUTING.md guidelines for your projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-14T13:24:39Z",
+            "owner": "WeAllJS",
+            "repo": "weallcontribute",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme Score",
+          "description": "Get the README complexity score for a Github repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-05-02T04:19:34Z",
+            "owner": "clayallsopp",
+            "repo": "readme-score",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Repository files"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Timothée Mazzucotelli has waived all copyright and related or neighboring rights to this work. See LICENSE.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:14:32.816Z",
+    "original_repository": "pawamoy/awesome-repository",
+    "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
+    "enhanced_repository": "enhansome/enhansome-repository",
+    "enhanced_repository_description": null,
+    "title": "awesome-repository with stars"
+  }
+}
