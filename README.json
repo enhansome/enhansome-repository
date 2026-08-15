@@ -14,7 +14,7 @@
             "last_commit": "2021-11-08T11:21:11Z",
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5635
+            "stars": 5636
           }
         },
         {
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-08T05:03:04Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23976
+            "stars": 23977
           }
         },
         {
@@ -113,7 +113,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T01:16:29Z",
+            "last_commit": "2026-08-14T19:36:23Z",
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1047
@@ -203,7 +203,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T03:45:32Z",
+            "last_commit": "2026-08-15T11:42:06Z",
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 914
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:09:36.080Z",
+    "last_updated": "2026-08-15T15:40:47.196Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
