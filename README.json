@@ -14,7 +14,7 @@
             "last_commit": "2021-11-08T11:21:11Z",
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5636
+            "stars": 5635
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-05-29T16:20:05Z",
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1392
+            "stars": 1391
           }
         },
         {
@@ -203,7 +203,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:42:06Z",
+            "last_commit": "2026-08-15T18:39:57Z",
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 914
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:40:47.196Z",
+    "last_updated": "2026-08-16T15:41:36.948Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
