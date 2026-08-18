@@ -85,10 +85,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T05:03:04Z",
+            "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23977
+            "stars": 23987
           }
         },
         {
@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:36:23Z",
+            "last_commit": "2026-08-17T10:35:59Z",
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1047
+            "stars": 1048
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-03-18T00:32:15Z",
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7535
+            "stars": 7536
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-15T18:39:57Z",
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 914
+            "stars": 916
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:41:36.948Z",
+    "last_updated": "2026-08-18T15:52:47.735Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
