@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98737787,
             "language": null,
             "last_commit": "2021-11-08T11:21:11Z",
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5635
+            "stars": 5636
           }
         },
         {
@@ -24,18 +25,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40569541,
             "language": null,
             "last_commit": "2025-02-18T20:15:20Z",
             "owner": "mntnr",
             "repo": "awesome-contributing",
             "stars": 296
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub's \"Tools for Open Source\" Collection",
-          "description": "Software to make running your open source project a little bit easier.",
-          "children": []
         }
       ],
       "title": "Guides and lists"
@@ -50,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26210598,
             "language": "JavaScript",
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
@@ -64,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109708492,
             "language": null,
             "last_commit": "2019-05-21T15:36:21Z",
             "owner": "sustainers",
@@ -84,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24063576,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
@@ -98,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15694901,
             "language": "Go",
             "last_commit": "2021-02-28T21:24:10Z",
             "owner": "pengwynn",
@@ -112,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79733281,
             "language": "JavaScript",
             "last_commit": "2026-08-17T10:35:59Z",
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1048
+            "stars": 1049
           }
         },
         {
@@ -126,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94138426,
             "language": "JavaScript",
             "last_commit": "2026-02-06T16:05:36Z",
             "owner": "todogroup",
@@ -140,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105567820,
             "language": "JavaScript",
             "last_commit": "2020-05-16T09:52:04Z",
             "owner": "mntnr",
@@ -160,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26018608,
             "language": "Ruby",
             "last_commit": "2026-03-18T00:32:15Z",
             "owner": "github-changelog-generator",
@@ -174,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4459367,
             "language": "JavaScript",
             "last_commit": "2026-08-04T16:02:57Z",
             "owner": "thlorenz",
@@ -188,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48847600,
             "language": "JavaScript",
             "last_commit": "2026-05-29T16:20:05Z",
             "owner": "cookpete",
@@ -202,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48647797,
             "language": "Python",
-            "last_commit": "2026-08-15T18:39:57Z",
+            "last_commit": "2026-08-19T12:28:29Z",
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 916
+            "stars": 917
           }
         },
         {
@@ -216,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82476159,
             "language": "JavaScript",
             "last_commit": "2020-09-27T21:53:20Z",
             "owner": "WeAllJS",
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82476125,
             "language": "JavaScript",
             "last_commit": "2024-07-14T13:24:39Z",
             "owner": "WeAllJS",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21294963,
             "language": "Ruby",
             "last_commit": "2019-05-02T04:19:34Z",
             "owner": "clayallsopp",
@@ -253,21 +263,12 @@
         }
       ],
       "title": "Repository files"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Timothée Mazzucotelli has waived all copyright and related or neighboring rights to this work. See LICENSE.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:52:47.735Z",
+    "last_updated": "2026-08-19T12:47:51.175Z",
     "original_repository": "pawamoy/awesome-repository",
+    "original_repository_id": 112741585,
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
     "enhanced_repository_description": null,
