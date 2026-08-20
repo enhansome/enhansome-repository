@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23987
+            "stars": 23992
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-03-18T00:32:15Z",
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538
+            "stars": 7539
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:52:13.618Z",
+    "last_updated": "2026-08-20T15:54:03.071Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_id": 112741585,
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
