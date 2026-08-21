@@ -15,7 +15,7 @@
             "last_commit": "2021-11-08T11:21:11Z",
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5636
+            "stars": 5635
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1529
+            "stars": 1530
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23992
+            "stars": 23995
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2021-02-28T21:24:10Z",
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1178
+            "stars": 1177
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-04T16:02:57Z",
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4461
+            "stars": 4460
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:54:03.071Z",
+    "last_updated": "2026-08-21T15:53:57.634Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_id": 112741585,
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
