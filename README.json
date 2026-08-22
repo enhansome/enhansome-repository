@@ -51,7 +51,7 @@
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1530
+            "stars": 1531
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T14:17:54Z",
+            "last_commit": "2026-08-22T11:08:50Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23995
+            "stars": 23997
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 79733281,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:35:59Z",
+            "last_commit": "2026-08-22T12:31:58Z",
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1049
@@ -198,7 +198,7 @@
             "last_commit": "2026-05-29T16:20:05Z",
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1391
+            "stars": 1392
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:53:57.634Z",
+    "last_updated": "2026-08-22T15:40:56.764Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_id": 112741585,
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",

@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,530 | 🐛 242 | 🌐 JavaScript | 📅 2024-06-06 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,531 | 🐛 242 | 🌐 JavaScript | 📅 2024-06-06 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 23,995 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-18 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 23,997 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,177 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,049 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-17 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,049 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-22 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -64,7 +64,7 @@ Auto-generate or get help to choose or improve files or file contents.
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,460 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,391 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,392 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
   Command line tool for generating a changelog from git tags and commit history.
 * [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 917 | 🐛 71 | 🌐 Python | 📅 2026-08-19 –
   Building newsfiles for your project.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
