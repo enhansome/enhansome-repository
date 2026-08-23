@@ -198,7 +198,7 @@
             "last_commit": "2026-05-29T16:20:05Z",
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1392
+            "stars": 1394
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-19T12:28:29Z",
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 917
+            "stars": 916
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:40:56.764Z",
+    "last_updated": "2026-08-23T15:42:18.902Z",
     "original_repository": "pawamoy/awesome-repository",
     "original_repository_id": 112741585,
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",

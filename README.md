@@ -64,9 +64,9 @@ Auto-generate or get help to choose or improve files or file contents.
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,460 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,392 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,394 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 917 | 🐛 71 | 🌐 Python | 📅 2026-08-19 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 916 | 🐛 71 | 🌐 Python | 📅 2026-08-19 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 220 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
