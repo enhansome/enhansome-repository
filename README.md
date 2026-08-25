@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,003 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,004 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,177 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,049 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-24 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,050 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-24 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -66,7 +66,7 @@ Auto-generate or get help to choose or improve files or file contents.
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,395 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 916 | 🐛 70 | 🌐 Python | 📅 2026-08-23 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 918 | 🐛 70 | 🌐 Python | 📅 2026-08-23 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 220 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
