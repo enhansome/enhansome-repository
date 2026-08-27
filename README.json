@@ -84,7 +84,7 @@
             "archived": false,
             "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T11:08:50Z",
+            "last_commit": "2026-08-26T21:54:52Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 24007
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 79733281,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T01:03:33Z",
+            "last_commit": "2026-08-27T01:21:28Z",
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1050
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-04T16:02:57Z",
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4461
+            "stars": 4462
           }
         },
         {
@@ -266,9 +266,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:51.113Z",
-    "original_repository": "pawamoy/awesome-repository",
-    "original_repository_id": 112741585,
+    "last_updated": "2026-08-27T12:01:03.273Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 112741585,
+      "language": null,
+      "last_commit": "2019-02-04T19:23:48Z",
+      "owner": "pawamoy",
+      "repo": "awesome-repository",
+      "stars": 63
+    },
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
     "enhanced_repository_description": null,
