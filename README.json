@@ -15,8 +15,9 @@
             "last_commit": "2021-11-08T11:21:11Z",
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5638
-          }
+            "stars": 5640
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mntnr",
             "repo": "awesome-contributing",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         }
       ],
       "title": "Guides and lists"
@@ -51,8 +53,9 @@
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1532
-          }
+            "stars": 1534
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "sustainers",
             "repo": "sustain.md",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         }
       ],
       "title": "People involved"
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:54:52Z",
+            "last_commit": "2026-08-28T10:49:00Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24010
-          }
+            "stars": 24015
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "pengwynn",
             "repo": "flint",
             "stars": 1178
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 79733281,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T01:21:28Z",
+            "last_commit": "2026-08-28T13:07:29Z",
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1051
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "todogroup",
             "repo": "repolinter",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "mntnr",
             "repo": "build-a-space",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         }
       ],
       "title": "Repository (general)"
@@ -169,7 +178,8 @@
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
             "stars": 7539
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "thlorenz",
             "repo": "doctoc",
             "stars": 4462
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "cookpete",
             "repo": "auto-changelog",
             "stars": 1395
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "WeAllJS",
             "repo": "weallbehave",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "WeAllJS",
             "repo": "weallcontribute",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         },
         {
           "node_type": "item",
@@ -259,14 +274,15 @@
             "owner": "clayallsopp",
             "repo": "readme-score",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:02:15.726Z"
         }
       ],
       "title": "Repository files"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:27:33.345Z",
+    "last_updated": "2026-08-29T00:02:15.726Z",
     "original_repository_info": {
       "archived": false,
       "id": 112741585,
