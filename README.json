@@ -80,7 +80,7 @@
             "open_issues": 242,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "angular",
               "cla",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:27.056Z",
+    "last_updated": "2026-08-29T18:40:15.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
