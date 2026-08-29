@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A checklist of tactics for marketing your startup.",
+            "homepage": "https://draft.dev/learn/marketing-checklist",
             "id": 98737787,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-08T11:21:11Z",
+            "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5640
+            "stars": 5641,
+            "topics": [
+              "automation",
+              "marketing",
+              "startups",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -26,12 +36,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome contributing guides for open source development.",
+            "homepage": null,
             "id": 40569541,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-02-18T20:15:20Z",
+            "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "community",
+              "contribute",
+              "contributing",
+              "github",
+              "guides"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         }
@@ -48,12 +71,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contributor License Agreement assistant (CLA assistant)",
+            "homepage": "https://cla-assistant.io",
             "id": 26210598,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-06T18:02:59Z",
+            "open_issues": 242,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1534
+            "stars": 1534,
+            "topics": [
+              "angular",
+              "cla",
+              "contributor-license-agreement",
+              "github",
+              "github-integration",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -64,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The file every project should [eventually] have in their repo.",
+            "homepage": null,
             "id": 109708492,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2019-05-21T15:36:21Z",
+            "open_issues": 5,
             "owner": "sustainers",
             "repo": "sustain.md",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         }
@@ -86,12 +126,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦🚀 Fully automated version management and package publishing",
+            "homepage": "https://semantic-release.org",
             "id": 24063576,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:49:00Z",
+            "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24015
+            "stars": 24015,
+            "topics": [
+              "automation",
+              "changelog",
+              "package",
+              "publish",
+              "release",
+              "release-automation",
+              "release-workflow",
+              "semantic-release",
+              "semantic-version",
+              "semver",
+              "semver-release",
+              "version"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -102,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check your project for common sources of contributor friction.",
+            "homepage": null,
             "id": 15694901,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-02-28T21:24:10Z",
+            "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1178
+            "stars": 1178,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -118,12 +181,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pull Requests for GitHub repository settings",
+            "homepage": "https://github.com/apps/settings",
             "id": 79733281,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-08-28T13:07:29Z",
+            "open_issues": 84,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1051
+            "stars": 1051,
+            "topics": [
+              "github-app",
+              "probot-app"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -134,12 +205,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repolinter, The Open Source Repository Linter",
+            "homepage": "https://todogroup.github.io/repolinter/",
             "id": 94138426,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T16:05:36Z",
+            "open_issues": 32,
             "owner": "todogroup",
             "repo": "repolinter",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "github",
+              "javascript",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -150,12 +230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically add community documentation to your repository",
+            "homepage": "https://maintainer.io",
             "id": 105567820,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-16T09:52:04Z",
+            "open_issues": 44,
             "owner": "mntnr",
             "repo": "build-a-space",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api",
+              "automatic",
+              "bot",
+              "community",
+              "github"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         }
@@ -172,12 +263,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.",
+            "homepage": null,
             "id": 26018608,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-03-18T00:32:15Z",
+            "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7539
+            "stars": 7539,
+            "topics": [
+              "changelog",
+              "changelog-generator",
+              "generator",
+              "github-api",
+              "github-extension",
+              "hacktoberfest",
+              "labels",
+              "markdown",
+              "notable-changes",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -188,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.",
+            "homepage": "https://www.npmjs.com/package/doctoc",
             "id": 4459367,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T16:02:57Z",
+            "open_issues": 27,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4462
+            "stars": 4462,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -204,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool for generating a changelog from git tags and commit history",
+            "homepage": null,
             "id": 48847600,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-29T16:20:05Z",
+            "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1395
+            "stars": 1395,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -220,12 +337,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage the release notes for your project.",
+            "homepage": "https://towncrier.readthedocs.io",
             "id": 48647797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T22:01:20Z",
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "newsfile",
+              "project-management",
+              "python",
+              "release-automation",
+              "release-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -236,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CODE_OF_CONDUCT.md generator",
+            "homepage": null,
             "id": 82476159,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-27T21:53:20Z",
+            "open_issues": 2,
             "owner": "WeAllJS",
             "repo": "weallbehave",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -252,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CONTRIBUTING.md generator",
+            "homepage": null,
             "id": 82476125,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-14T13:24:39Z",
+            "open_issues": 15,
             "owner": "WeAllJS",
             "repo": "weallcontribute",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         },
@@ -268,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Giving a score to README.md's everywhere",
+            "homepage": "http://clayallsopp.github.io/readme-score",
             "id": 21294963,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-05-02T04:19:34Z",
+            "open_issues": 6,
             "owner": "clayallsopp",
             "repo": "readme-score",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
         }
@@ -282,15 +425,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:15.726Z",
+    "last_updated": "2026-08-29T05:02:27.056Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of services, tools and standards about (open source) repository management.",
+      "homepage": null,
       "id": 112741585,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2019-02-04T19:23:48Z",
+      "open_issues": 0,
       "owner": "pawamoy",
       "repo": "awesome-repository",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "open-source",
+        "repository"
+      ]
     },
     "original_repository_sha": "505257138c93ee69db4f9d52da2ad32b1af3a91c",
     "enhanced_repository": "enhansome/enhansome-repository",
