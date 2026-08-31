@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,013 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-29 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,014 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-29 –
   Fully automated package publishing.
-* [Flint](https://github.com/pengwynn/flint) ⭐ 1,178 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
+* [Flint](https://github.com/pengwynn/flint) ⭐ 1,180 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,051 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-30 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,051 | 🐛 85 | 🌐 JavaScript | 📅 2026-08-31 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -64,7 +64,7 @@ Auto-generate or get help to choose or improve files or file contents.
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,462 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,395 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,396 | 🐛 45 | 🌐 JavaScript | 📅 2026-05-29 –
   Command line tool for generating a changelog from git tags and commit history.
 * [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 918 | 🐛 70 | 🌐 Python | 📅 2026-08-23 –
   Building newsfiles for your project.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

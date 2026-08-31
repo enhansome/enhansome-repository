@@ -135,7 +135,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24013,
+            "stars": 24014,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1178,
+            "stars": 1180,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-08-30T02:53:23Z",
-            "open_issues": 84,
+            "last_commit": "2026-08-31T11:03:50Z",
+            "open_issues": 85,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1051,
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1395,
+            "stars": 1396,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:39:44.518Z",
+    "last_updated": "2026-08-31T20:53:16.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
