@@ -135,7 +135,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24014,
+            "stars": 24011,
             "topics": [
               "automation",
               "changelog",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7539,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -346,7 +346,7 @@
             "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 918,
+            "stars": 919,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:53:16.727Z",
+    "last_updated": "2026-09-01T18:39:09.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
