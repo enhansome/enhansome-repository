@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -132,10 +132,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T03:49:32Z",
-            "open_issues": 404,
+            "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24018,
+            "stars": 24023,
             "topics": [
               "automation",
               "changelog",
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-03T12:38:16Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-04T13:38:55Z",
+            "open_issues": 85,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1051,
+            "stars": 1052,
             "topics": [
               "github-app",
               "probot-app"
@@ -321,7 +321,7 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-05-29T16:20:05Z",
+            "last_commit": "2026-09-04T06:12:11Z",
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
@@ -342,8 +342,8 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T12:18:59Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-04T13:05:22Z",
+            "open_issues": 68,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 919,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:47:18.473Z",
+    "last_updated": "2026-09-04T18:29:31.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
