@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,023 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-03 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,024 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-03 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,180 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -62,9 +62,9 @@ Auto-generate or get help to choose or improve files or file contents.
 
 * [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,462 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
+* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,463 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,397 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-04 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,397 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
   Command line tool for generating a changelog from git tags and commit history.
 * [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 919 | 🐛 68 | 🌐 Python | 📅 2026-09-04 –
   Building newsfiles for your project.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
