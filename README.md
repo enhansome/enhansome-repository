@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,535 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,536 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,024 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-03 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,026 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-05 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,180 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -62,7 +62,7 @@ Auto-generate or get help to choose or improve files or file contents.
 
 * [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,463 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
+* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,464 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,397 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
   Command line tool for generating a changelog from git tags and commit history.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
