@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:29:12Z",
-            "open_issues": 405,
+            "last_commit": "2026-09-08T13:37:06Z",
+            "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24028,
+            "stars": 24027,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1180,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-04T13:38:55Z",
+            "last_commit": "2026-09-08T00:08:08Z",
             "open_issues": 85,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1052,
+            "stars": 1053,
             "topics": [
               "github-app",
               "probot-app"
@@ -342,7 +342,7 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:05:22Z",
+            "last_commit": "2026-09-08T06:56:05Z",
             "open_issues": 68,
             "owner": "twisted",
             "repo": "towncrier",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:15:52.320Z",
+    "last_updated": "2026-09-08T18:49:21.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",

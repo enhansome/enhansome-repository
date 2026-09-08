@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,028 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-05 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,027 | 🐛 404 | 🌐 JavaScript | 📅 2026-09-08 –
   Fully automated package publishing.
-* [Flint](https://github.com/pengwynn/flint) ⭐ 1,180 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
+* [Flint](https://github.com/pengwynn/flint) ⭐ 1,179 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,052 | 🐛 85 | 🌐 JavaScript | 📅 2026-09-04 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,053 | 🐛 85 | 🌐 JavaScript | 📅 2026-09-08 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -66,7 +66,7 @@ Auto-generate or get help to choose or improve files or file contents.
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,397 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 919 | 🐛 68 | 🌐 Python | 📅 2026-09-04 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 919 | 🐛 68 | 🌐 Python | 📅 2026-09-08 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 220 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
