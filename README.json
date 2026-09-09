@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "awesome",
               "awesome-list",
@@ -77,7 +77,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2024-06-06T18:02:59Z",
-            "open_issues": 248,
+            "open_issues": 249,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
             "stars": 1536,
@@ -135,7 +135,7 @@
             "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24027,
+            "stars": 24031,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1179,
+            "stars": 1180,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-08T00:08:08Z",
+            "last_commit": "2026-09-09T05:39:11Z",
             "open_issues": 85,
             "owner": "repository-settings",
             "repo": "app",
@@ -304,7 +304,7 @@
             "open_issues": 27,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4465,
+            "stars": 4464,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:49:21.349Z",
+    "last_updated": "2026-09-09T18:43:39.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
