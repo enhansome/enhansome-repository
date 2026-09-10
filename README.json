@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-09T05:39:11Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-10T02:54:23Z",
+            "open_issues": 86,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1053,
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1397,
+            "stars": 1398,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -346,7 +346,7 @@
             "open_issues": 68,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 919,
+            "stars": 921,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:43:39.100Z",
+    "last_updated": "2026-09-10T18:34:04.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
