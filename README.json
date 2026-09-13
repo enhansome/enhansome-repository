@@ -80,7 +80,7 @@
             "open_issues": 249,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1537,
+            "stars": 1538,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:37:06Z",
+            "last_commit": "2026-09-13T18:10:19Z",
             "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24034,
+            "stars": 24035,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1180,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -190,7 +190,7 @@
             "open_issues": 86,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1053,
+            "stars": 1055,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7536,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -373,7 +373,7 @@
             "open_issues": 2,
             "owner": "WeAllJS",
             "repo": "weallbehave",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -394,7 +394,7 @@
             "open_issues": 15,
             "owner": "WeAllJS",
             "repo": "weallcontribute",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:46:02.182Z",
+    "last_updated": "2026-09-13T18:15:10.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
