@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5645,
+            "stars": 5646,
             "topics": [
               "automation",
               "marketing",
@@ -77,7 +77,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2024-06-06T18:02:59Z",
-            "open_issues": 249,
+            "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
             "stars": 1538,
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T18:10:19Z",
-            "open_issues": 404,
+            "last_commit": "2026-09-14T19:43:29Z",
+            "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24035,
+            "stars": 24036,
             "topics": [
               "automation",
               "changelog",
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1398,
+            "stars": 1399,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:15:10.292Z",
+    "last_updated": "2026-09-14T19:52:11.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
