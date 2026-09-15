@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,538 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,539 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,036 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-14 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,037 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-14 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,181 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,055 | 🐛 86 | 🌐 JavaScript | 📅 2026-09-10 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,056 | 🐛 87 | 🌐 JavaScript | 📅 2026-09-10 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -66,7 +66,7 @@ Auto-generate or get help to choose or improve files or file contents.
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,399 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 921 | 🐛 68 | 🌐 Python | 📅 2026-09-08 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 922 | 🐛 68 | 🌐 Python | 📅 2026-09-08 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 221 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
