@@ -135,7 +135,7 @@
             "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24041,
+            "stars": 24044,
             "topics": [
               "automation",
               "changelog",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:56:26.913Z",
+    "last_updated": "2026-09-17T19:07:03.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
