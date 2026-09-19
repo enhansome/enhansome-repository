@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,648 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,650 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 298 | 🐛 0 | 📅 2025-02-18 –
@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,047 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-16 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,049 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-19 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,181 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -60,7 +60,7 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,538 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,465 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
