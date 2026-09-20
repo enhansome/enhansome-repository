@@ -14,10 +14,10 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,650 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,651 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
-* [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 298 | 🐛 0 | 📅 2025-02-18 –
+* [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 299 | 🐛 0 | 📅 2025-02-18 –
   Awesome contributing guides for open source development.
 * [GitHub's "Tools for Open Source" Collection](https://github.com/collections/tools-for-open-source) –
   Software to make running your open source project a little bit easier.
@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,539 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,540 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,049 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-19 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,051 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-20 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,181 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,056 | 🐛 87 | 🌐 JavaScript | 📅 2026-09-16 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,057 | 🐛 87 | 🌐 JavaScript | 📅 2026-09-16 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -74,7 +74,7 @@ Auto-generate or get help to choose or improve files or file contents.
 * [Weallcontribute](https://github.com/WeAllJS/weallcontribute) ⭐ 187 | 🐛 15 | 🌐 JavaScript | 📅 2024-07-14 –
   Command-line tool for automatically generating and updating CONTRIBUTING.md
   guidelines for your projects.
-* [Readme Score](https://github.com/clayallsopp/readme-score) ⭐ 39 | 🐛 6 | 🌐 Ruby | 📅 2019-05-02 –
+* [Readme Score](https://github.com/clayallsopp/readme-score) ⭐ 39 | 🐛 5 | 🌐 Ruby | 📅 2019-05-02 –
   Get the README complexity score for a Github repository.
 * [Choose a license](https://choosealicense.com/) –
   A site to provide non-judgmental guidance on choosing a license for your
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

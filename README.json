@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5650,
+            "stars": 5651,
             "topics": [
               "automation",
               "marketing",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1539,
+            "stars": 1540,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T10:08:15Z",
+            "last_commit": "2026-09-20T16:59:10Z",
             "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24049,
+            "stars": 24051,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 87,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "github-app",
               "probot-app"
@@ -412,7 +412,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2019-05-02T04:19:34Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "clayallsopp",
             "repo": "readme-score",
             "stars": 39,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:06:56.453Z",
+    "last_updated": "2026-09-20T18:13:45.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
