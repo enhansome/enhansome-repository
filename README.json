@@ -80,7 +80,7 @@
             "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1540,
+            "stars": 1541,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T16:59:10Z",
-            "open_issues": 406,
+            "last_commit": "2026-09-21T19:16:56Z",
+            "open_issues": 402,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24051,
+            "stars": 24056,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 87,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1057,
+            "stars": 1056,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -343,7 +343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T06:56:05Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 922,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:13:45.603Z",
+    "last_updated": "2026-09-21T20:01:53.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
