@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5651,
+            "stars": 5652,
             "topics": [
               "automation",
               "marketing",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "awesome",
               "awesome-list",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:16:56Z",
+            "last_commit": "2026-09-22T07:33:01Z",
             "open_issues": 402,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24056,
+            "stars": 24058,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1181,
+            "stars": 1182,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-16T00:49:34Z",
-            "open_issues": 87,
+            "last_commit": "2026-09-21T21:15:59Z",
+            "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1056,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:01:53.513Z",
+    "last_updated": "2026-09-22T18:59:34.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
