@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5652,
+            "stars": 5653,
             "topics": [
               "automation",
               "marketing",
@@ -132,10 +132,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-22T07:33:01Z",
-            "open_issues": 402,
+            "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24058,
+            "stars": 24064,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1056,
+            "stars": 1055,
             "topics": [
               "github-app",
               "probot-app"
@@ -304,7 +304,7 @@
             "open_issues": 27,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4465,
+            "stars": 4464,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1399,
+            "stars": 1400,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -343,7 +343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T06:56:05Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 922,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:59:34.390Z",
+    "last_updated": "2026-09-23T19:06:57.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
