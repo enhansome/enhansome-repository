@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,653 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,652 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 300 | 🐛 0 | 📅 2025-02-18 –
@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,064 | 🐛 403 | 🌐 JavaScript | 📅 2026-09-22 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,069 | 🐛 403 | 🌐 JavaScript | 📅 2026-09-22 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,182 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -60,13 +60,13 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,538 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,464 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-04 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,400 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,401 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 922 | 🐛 70 | 🌐 Python | 📅 2026-09-08 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 922 | 🐛 69 | 🌐 Python | 📅 2026-09-08 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 221 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

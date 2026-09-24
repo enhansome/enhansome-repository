@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5653,
+            "stars": 5652,
             "topics": [
               "automation",
               "marketing",
@@ -135,7 +135,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24064,
+            "stars": 24069,
             "topics": [
               "automation",
               "changelog",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7537,
+            "stars": 7538,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1400,
+            "stars": 1401,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -343,7 +343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T06:56:05Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 922,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:06:57.891Z",
+    "last_updated": "2026-09-24T19:19:08.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
