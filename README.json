@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5652,
+            "stars": 5651,
             "topics": [
               "automation",
               "marketing",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T07:33:01Z",
+            "last_commit": "2026-09-25T18:27:23Z",
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24069,
+            "stars": 24068,
             "topics": [
               "automation",
               "changelog",
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-21T21:15:59Z",
+            "last_commit": "2026-09-25T03:42:29Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -304,7 +304,7 @@
             "open_issues": 27,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4464,
+            "stars": 4466,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -321,7 +321,7 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T05:15:47Z",
+            "last_commit": "2026-09-25T03:39:16Z",
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:19:08.615Z",
+    "last_updated": "2026-09-25T19:21:20.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
