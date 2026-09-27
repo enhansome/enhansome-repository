@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5653,
+            "stars": 5654,
             "topics": [
               "automation",
               "marketing",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 300,
+            "stars": 298,
             "topics": [
               "awesome",
               "awesome-list",
@@ -135,7 +135,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24070,
+            "stars": 24067,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 87,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "github-app",
               "probot-app"
@@ -321,11 +321,11 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T03:39:16Z",
+            "last_commit": "2026-09-27T07:33:52Z",
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1401,
+            "stars": 1400,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:38:43.126Z",
+    "last_updated": "2026-09-27T19:04:47.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
