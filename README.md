@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,657 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,658 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 297 | 🐛 0 | 📅 2025-02-18 –
@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,077 | 🐛 403 | 🌐 JavaScript | 📅 2026-09-28 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,078 | 🐛 403 | 🌐 JavaScript | 📅 2026-09-28 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,182 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -62,11 +62,11 @@ Auto-generate or get help to choose or improve files or file contents.
 
 * [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,536 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,467 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-29 –
+* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,468 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30 –
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,401 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 –
   Command line tool for generating a changelog from git tags and commit history.
-* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 922 | 🐛 68 | 🌐 Python | 📅 2026-09-08 –
+* [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 921 | 🐛 68 | 🌐 Python | 📅 2026-09-08 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 221 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
