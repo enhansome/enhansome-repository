@@ -80,7 +80,7 @@
             "open_issues": 249,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:02:18Z",
+            "last_commit": "2026-10-02T17:30:13Z",
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24081,
+            "stars": 24082,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -190,7 +190,7 @@
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "github-app",
               "probot-app"
@@ -304,7 +304,7 @@
             "open_issues": 28,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4467,
+            "stars": 4469,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -346,7 +346,7 @@
             "open_issues": 68,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "newsfile",
               "project-management",
@@ -373,7 +373,7 @@
             "open_issues": 2,
             "owner": "WeAllJS",
             "repo": "weallbehave",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -394,7 +394,7 @@
             "open_issues": 15,
             "owner": "WeAllJS",
             "repo": "weallcontribute",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:23:52.593Z",
+    "last_updated": "2026-10-02T19:59:14.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
