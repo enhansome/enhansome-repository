@@ -45,7 +45,7 @@ Improve a repository, its management and its contributions from the community.
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,057 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-01 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,057 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-03 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -60,7 +60,7 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,536 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,469 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30 –
   Generate table of contents for markdown files inside local git repository.

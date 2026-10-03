@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-01T16:52:45Z",
+            "last_commit": "2026-10-03T14:06:02Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7536,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:59.223Z",
+    "last_updated": "2026-10-03T18:44:21.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
