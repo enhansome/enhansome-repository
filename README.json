@@ -135,7 +135,7 @@
             "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24084,
+            "stars": 24089,
             "topics": [
               "automation",
               "changelog",
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-04T00:31:12Z",
+            "last_commit": "2026-10-05T13:05:16Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1057,
+            "stars": 1058,
             "topics": [
               "github-app",
               "probot-app"
@@ -304,7 +304,7 @@
             "open_issues": 28,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4468,
+            "stars": 4469,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1401,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -342,11 +342,11 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T06:56:05Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-05T16:45:14Z",
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:41:47.429Z",
+    "last_updated": "2026-10-05T22:04:50.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
