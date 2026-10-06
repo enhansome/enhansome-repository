@@ -131,8 +131,8 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T06:35:24Z",
-            "open_issues": 404,
+            "last_commit": "2026-10-06T05:43:47Z",
+            "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 24089,
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-05T13:05:16Z",
+            "last_commit": "2026-10-06T03:11:19Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
@@ -342,7 +342,7 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:45:14Z",
+            "last_commit": "2026-10-05T22:17:47Z",
             "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:04:50.839Z",
+    "last_updated": "2026-10-06T10:29:46.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
