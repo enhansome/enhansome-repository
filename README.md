@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,089 | 🐛 403 | 🌐 JavaScript | 📅 2026-10-06 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,092 | 🐛 403 | 🌐 JavaScript | 📅 2026-10-06 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -62,7 +62,7 @@ Auto-generate or get help to choose or improve files or file contents.
 
 * [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,469 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30 –
+* [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,470 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-30 –
   Generate table of contents for markdown files inside local git repository.
 * [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,402 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 –
   Command line tool for generating a changelog from git tags and commit history.
