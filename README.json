@@ -131,8 +131,8 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:43:47Z",
-            "open_issues": 404,
+            "last_commit": "2026-10-09T16:53:51Z",
+            "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 24096,
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-08T10:41:21Z",
+            "last_commit": "2026-10-09T01:59:41Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7539,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1403,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -342,8 +342,8 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:17:47Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-09T10:08:22Z",
+            "open_issues": 71,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 923,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:43:23.007Z",
+    "last_updated": "2026-10-09T20:09:18.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
