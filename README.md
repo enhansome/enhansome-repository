@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,657 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,658 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 297 | 🐛 0 | 📅 2025-02-18 –
@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,096 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-09 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,097 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-09 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

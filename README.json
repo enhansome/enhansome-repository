@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5657,
+            "stars": 5658,
             "topics": [
               "automation",
               "marketing",
@@ -135,7 +135,7 @@
             "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24096,
+            "stars": 24097,
             "topics": [
               "automation",
               "changelog",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:09:18.560Z",
+    "last_updated": "2026-10-10T19:22:29.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
