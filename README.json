@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5658,
+            "stars": 5659,
             "topics": [
               "automation",
               "marketing",
@@ -80,7 +80,7 @@
             "open_issues": 249,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1544,
+            "stars": 1545,
             "topics": [
               "angular",
               "cla",
@@ -135,7 +135,7 @@
             "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24097,
+            "stars": 24099,
             "topics": [
               "automation",
               "changelog",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7537,
+            "stars": 7538,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -346,7 +346,7 @@
             "open_issues": 71,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:22:29.967Z",
+    "last_updated": "2026-10-11T19:36:33.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
