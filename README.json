@@ -76,11 +76,11 @@
             "id": 26210598,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-06T18:02:59Z",
-            "open_issues": 249,
+            "last_commit": "2026-10-13T06:41:59Z",
+            "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1545,
+            "stars": 1544,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:00:15Z",
+            "last_commit": "2026-10-13T14:00:29Z",
             "open_issues": 408,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24100,
+            "stars": 24103,
             "topics": [
               "automation",
               "changelog",
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-12T14:59:45Z",
+            "last_commit": "2026-10-13T11:37:10Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538,
+            "stars": 7537,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1403,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -346,7 +346,7 @@
             "open_issues": 71,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:31:24.316Z",
+    "last_updated": "2026-10-13T20:44:16.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
@@ -437,7 +437,7 @@
       "open_issues": 0,
       "owner": "pawamoy",
       "repo": "awesome-repository",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "awesome",
         "awesome-list",
