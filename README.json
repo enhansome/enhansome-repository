@@ -80,7 +80,7 @@
             "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1544,
+            "stars": 1545,
             "topics": [
               "angular",
               "cla",
@@ -132,10 +132,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T14:00:29Z",
-            "open_issues": 408,
+            "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24103,
+            "stars": 24105,
             "topics": [
               "automation",
               "changelog",
@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-13T11:37:10Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-14T16:54:42Z",
+            "open_issues": 89,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1060,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:44:16.728Z",
+    "last_updated": "2026-10-14T19:29:56.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
