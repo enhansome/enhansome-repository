@@ -80,7 +80,7 @@
             "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1545,
+            "stars": 1546,
             "topics": [
               "angular",
               "cla",
@@ -135,7 +135,7 @@
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24105,
+            "stars": 24109,
             "topics": [
               "automation",
               "changelog",
@@ -304,7 +304,7 @@
             "open_issues": 28,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4470,
+            "stars": 4469,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:29:56.705Z",
+    "last_updated": "2026-10-15T19:15:33.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
