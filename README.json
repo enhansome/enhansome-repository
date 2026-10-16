@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5661,
+            "stars": 5662,
             "topics": [
               "automation",
               "marketing",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:00:29Z",
+            "last_commit": "2026-10-16T08:26:08Z",
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24109,
+            "stars": 24112,
             "topics": [
               "automation",
               "changelog",
@@ -343,7 +343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T10:08:22Z",
-            "open_issues": 71,
+            "open_issues": 73,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 925,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:15:33.839Z",
+    "last_updated": "2026-10-16T18:51:22.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
