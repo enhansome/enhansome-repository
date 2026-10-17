@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,546 | 🐛 248 | 🌐 JavaScript | 📅 2026-10-13 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,545 | 🐛 248 | 🌐 JavaScript | 📅 2026-10-13 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -45,7 +45,7 @@ Improve a repository, its management and its contributions from the community.
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,060 | 🐛 89 | 🌐 JavaScript | 📅 2026-10-14 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,061 | 🐛 89 | 🌐 JavaScript | 📅 2026-10-14 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
