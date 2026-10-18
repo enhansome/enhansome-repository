@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5662,
+            "stars": 5663,
             "topics": [
               "automation",
               "marketing",
@@ -304,7 +304,7 @@
             "open_issues": 28,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4469,
+            "stars": 4468,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:52:36.740Z",
+    "last_updated": "2026-10-18T18:12:28.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
