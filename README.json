@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5667,
+            "stars": 5669,
             "topics": [
               "automation",
               "marketing",
@@ -77,10 +77,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T06:41:59Z",
-            "open_issues": 252,
+            "open_issues": 251,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1548,
+            "stars": 1550,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:45:54Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-23T17:19:37Z",
+            "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24121,
+            "stars": 24124,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1061,
+            "stars": 1062,
             "topics": [
               "github-app",
               "probot-app"
@@ -304,7 +304,7 @@
             "open_issues": 29,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4469,
+            "stars": 4470,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:17:28.889Z",
+    "last_updated": "2026-10-23T19:21:10.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
