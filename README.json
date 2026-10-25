@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5670,
+            "stars": 5671,
             "topics": [
               "automation",
               "marketing",
@@ -77,7 +77,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T06:41:59Z",
-            "open_issues": 252,
+            "open_issues": 254,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
             "stars": 1551,
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T16:46:38Z",
-            "open_issues": 406,
+            "last_commit": "2026-10-25T02:11:02Z",
+            "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24124,
+            "stars": 24126,
             "topics": [
               "automation",
               "changelog",
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-22T11:34:56Z",
+            "last_commit": "2026-10-25T04:47:49Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7537,
+            "stars": 7538,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:15:07.631Z",
+    "last_updated": "2026-10-25T18:27:54.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
