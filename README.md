@@ -17,7 +17,7 @@ Guides to build and promote awesome open source projects.
 * [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,672 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
-* [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 298 | 🐛 0 | 📅 2025-02-18 –
+* [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 299 | 🐛 0 | 📅 2025-02-18 –
   Awesome contributing guides for open source development.
 * [GitHub's "Tools for Open Source" Collection](https://github.com/collections/tools-for-open-source) –
   Software to make running your open source project a little bit easier.
@@ -41,11 +41,11 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,130 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-26 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,133 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-26 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
-* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,062 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-25 –
+* [GitHub Settings](https://github.com/probot/settings) ⭐ 1,062 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-26 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
   enabling Pull Requests for repository settings.
 * [Repo Linter](https://github.com/todogroup/repolinter) ⚠️ Archived –
@@ -60,11 +60,11 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,538 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,470 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,404 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,403 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 –
   Command line tool for generating a changelog from git tags and commit history.
 * [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 926 | 🐛 70 | 🌐 Python | 📅 2026-10-09 –
   Building newsfiles for your project.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
