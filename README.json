@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:12:52Z",
-            "open_issues": 406,
+            "last_commit": "2026-10-31T12:09:33Z",
+            "open_issues": 408,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24148,
+            "stars": 24150,
             "topics": [
               "automation",
               "changelog",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:57:42.850Z",
+    "last_updated": "2026-10-31T19:23:37.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
