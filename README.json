@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5676,
+            "stars": 5675,
             "topics": [
               "automation",
               "marketing",
@@ -80,7 +80,7 @@
             "open_issues": 257,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1554,
+            "stars": 1556,
             "topics": [
               "angular",
               "cla",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538,
+            "stars": 7539,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:23:37.598Z",
+    "last_updated": "2026-11-01T19:48:01.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",

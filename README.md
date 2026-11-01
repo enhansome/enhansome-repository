@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,676 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,675 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 299 | 🐛 0 | 📅 2025-02-18 –
@@ -28,7 +28,7 @@ Guides to build and promote awesome open source projects.
 
 Services and documentation for authors, contributors, maintainers and sustainers.
 
-* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,554 | 🐛 257 | 🌐 JavaScript | 📅 2026-10-13 –
+* [Contributor License Agreement assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,556 | 🐛 257 | 🌐 JavaScript | 📅 2026-10-13 –
   CLA assistant enables contributors to sign CLAs from within a pull request.
 * [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) ⭐ 26 | 🐛 5 | 📅 2019-05-21 –
   The file every project should have in their repository.
@@ -60,7 +60,7 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,538 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,539 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,471 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19 –
   Generate table of contents for markdown files inside local git repository.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
