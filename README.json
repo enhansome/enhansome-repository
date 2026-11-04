@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5677,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -135,7 +135,7 @@
             "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24152,
+            "stars": 24153,
             "topics": [
               "automation",
               "changelog",
@@ -190,7 +190,7 @@
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1061,
+            "stars": 1062,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7539,
+            "stars": 7538,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -304,7 +304,7 @@
             "open_issues": 29,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4472,
+            "stars": 4473,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -346,7 +346,7 @@
             "open_issues": 69,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 927,
+            "stars": 928,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:07:43.935Z",
+    "last_updated": "2026-11-04T21:21:44.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
