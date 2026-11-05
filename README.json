@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5678,
+            "stars": 5677,
             "topics": [
               "automation",
               "marketing",
@@ -76,11 +76,11 @@
             "id": 26210598,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:41:59Z",
-            "open_issues": 258,
+            "last_commit": "2026-11-05T14:17:07Z",
+            "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1555,
+            "stars": 1557,
             "topics": [
               "angular",
               "cla",
@@ -135,7 +135,7 @@
             "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24153,
+            "stars": 24156,
             "topics": [
               "automation",
               "changelog",
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-03T10:26:31Z",
+            "last_commit": "2026-11-05T18:47:02Z",
             "open_issues": 88,
             "owner": "repository-settings",
             "repo": "app",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7538,
+            "stars": 7540,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:21:44.934Z",
+    "last_updated": "2026-11-05T21:29:32.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
