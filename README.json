@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5677,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -80,7 +80,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1557,
+            "stars": 1559,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:09:33Z",
+            "last_commit": "2026-11-06T20:44:31Z",
             "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24156,
+            "stars": 24163,
             "topics": [
               "automation",
               "changelog",
@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-05T18:47:02Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-06T17:26:42Z",
+            "open_issues": 89,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1062,
@@ -304,7 +304,7 @@
             "open_issues": 29,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4473,
+            "stars": 4474,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -343,7 +343,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T07:57:00Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 928,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:29:32.567Z",
+    "last_updated": "2026-11-06T20:56:58.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
