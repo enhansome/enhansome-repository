@@ -132,10 +132,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-06T20:44:31Z",
-            "open_issues": 410,
+            "open_issues": 412,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24163,
+            "stars": 24162,
             "topics": [
               "automation",
               "changelog",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7540,
+            "stars": 7541,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:56:58.642Z",
+    "last_updated": "2026-11-07T19:29:36.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",

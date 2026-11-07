@@ -41,7 +41,7 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,163 | 🐛 410 | 🌐 JavaScript | 📅 2026-11-06 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,162 | 🐛 412 | 🌐 JavaScript | 📅 2026-11-06 –
   Fully automated package publishing.
 * [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
@@ -60,7 +60,7 @@ Improve a repository, its management and its contributions from the community.
 
 Auto-generate or get help to choose or improve files or file contents.
 
-* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,540 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,541 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,474 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19 –
   Generate table of contents for markdown files inside local git repository.
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
