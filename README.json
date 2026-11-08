@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5678,
+            "stars": 5679,
             "topics": [
               "automation",
               "marketing",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 299,
+            "stars": 298,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1559,
+            "stars": 1560,
             "topics": [
               "angular",
               "cla",
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-06T17:26:42Z",
+            "last_commit": "2026-11-08T04:34:27Z",
             "open_issues": 89,
             "owner": "repository-settings",
             "repo": "app",
@@ -325,7 +325,7 @@
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
-            "stars": 1403,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -346,7 +346,7 @@
             "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "newsfile",
               "project-management",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:29:36.619Z",
+    "last_updated": "2026-11-08T19:47:23.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
