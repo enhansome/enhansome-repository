@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5680,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -132,10 +132,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-06T20:44:31Z",
-            "open_issues": 412,
+            "open_issues": 414,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24166,
+            "stars": 24167,
             "topics": [
               "automation",
               "changelog",
@@ -186,11 +186,11 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-09T04:37:58Z",
+            "last_commit": "2026-11-11T22:00:51Z",
             "open_issues": 89,
             "owner": "repository-settings",
             "repo": "app",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "github-app",
               "probot-app"
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7542,
+            "stars": 7543,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -304,7 +304,7 @@
             "open_issues": 29,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4476,
+            "stars": 4475,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -321,7 +321,7 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T07:33:52Z",
+            "last_commit": "2026-11-11T01:48:29Z",
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
@@ -343,10 +343,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T07:57:00Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 930,
+            "stars": 931,
             "topics": [
               "newsfile",
               "project-management",
@@ -373,7 +373,7 @@
             "open_issues": 2,
             "owner": "WeAllJS",
             "repo": "weallbehave",
-            "stars": 222,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:20:33.675Z",
+    "last_updated": "2026-11-11T22:03:44.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
