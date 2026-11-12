@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5678,
+            "stars": 5679,
             "topics": [
               "automation",
               "marketing",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1560,
+            "stars": 1561,
             "topics": [
               "angular",
               "cla",
@@ -132,7 +132,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-06T20:44:31Z",
-            "open_issues": 414,
+            "open_issues": 413,
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 24167,
@@ -186,8 +186,8 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-11T22:00:51Z",
-            "open_issues": 89,
+            "last_commit": "2026-11-12T04:05:14Z",
+            "open_issues": 90,
             "owner": "repository-settings",
             "repo": "app",
             "stars": 1063,
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7543,
+            "stars": 7544,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -321,7 +321,7 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:48:29Z",
+            "last_commit": "2026-11-12T06:50:14Z",
             "open_issues": 45,
             "owner": "cookpete",
             "repo": "auto-changelog",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:03:44.710Z",
+    "last_updated": "2026-11-12T21:52:13.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
