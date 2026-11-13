@@ -14,7 +14,7 @@ management, and open source communities.
 
 Guides to build and promote awesome open source projects.
 
-* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,679 | 🐛 4 | 📅 2021-11-08 –
+* [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) ⭐ 5,680 | 🐛 4 | 📅 2021-11-08 –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 * [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) ⭐ 300 | 🐛 0 | 📅 2025-02-18 –
@@ -41,9 +41,9 @@ Services and documentation for authors, contributors, maintainers and sustainers
 
 Improve a repository, its management and its contributions from the community.
 
-* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,167 | 🐛 413 | 🌐 JavaScript | 📅 2026-11-06 –
+* [Semantic-Release](https://github.com/semantic-release/semantic-release) ⭐ 24,168 | 🐛 414 | 🌐 JavaScript | 📅 2026-11-13 –
   Fully automated package publishing.
-* [Flint](https://github.com/pengwynn/flint) ⭐ 1,183 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
+* [Flint](https://github.com/pengwynn/flint) ⭐ 1,182 | 🐛 5 | 🌐 Go | 📅 2021-02-28 –
   Check your project for common sources of contributor friction.
 * [GitHub Settings](https://github.com/probot/settings) ⭐ 1,063 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-12 –
   Sync repository settings defined in `.github/settings.yml` to GitHub,
@@ -64,14 +64,14 @@ Auto-generate or get help to choose or improve files or file contents.
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,475 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19 –
   Generate table of contents for markdown files inside local git repository.
-* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,404 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-12 –
+* [Auto-Changelog](https://github.com/CookPete/auto-changelog) ⭐ 1,404 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-13 –
   Command line tool for generating a changelog from git tags and commit history.
 * [Towncrier](https://github.com/hawkowl/towncrier) ⭐ 931 | 🐛 71 | 🌐 Python | 📅 2026-11-03 –
   Building newsfiles for your project.
 * [Weallbehave](https://github.com/WeAllJS/weallbehave) ⭐ 221 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-27 –
   Command-line tool for automatically generating and updating the
   CODE\_OF\_CONDUCT.md for your projects.
-* [Weallcontribute](https://github.com/WeAllJS/weallcontribute) ⭐ 188 | 🐛 15 | 🌐 JavaScript | 📅 2024-07-14 –
+* [Weallcontribute](https://github.com/WeAllJS/weallcontribute) ⭐ 187 | 🐛 15 | 🌐 JavaScript | 📅 2024-07-14 –
   Command-line tool for automatically generating and updating CONTRIBUTING.md
   guidelines for your projects.
 * [Readme Score](https://github.com/clayallsopp/readme-score) ⭐ 39 | 🐛 5 | 🌐 Ruby | 📅 2019-05-02 –
@@ -97,4 +97,4 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

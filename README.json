@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5679,
+            "stars": 5680,
             "topics": [
               "automation",
               "marketing",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T20:44:31Z",
-            "open_issues": 413,
+            "last_commit": "2026-11-13T09:57:01Z",
+            "open_issues": 414,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24167,
+            "stars": 24168,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1183,
+            "stars": 1182,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -321,8 +321,8 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T06:50:14Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-13T18:03:15Z",
+            "open_issues": 36,
             "owner": "cookpete",
             "repo": "auto-changelog",
             "stars": 1404,
@@ -394,7 +394,7 @@
             "open_issues": 15,
             "owner": "WeAllJS",
             "repo": "weallcontribute",
-            "stars": 188,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:52:13.683Z",
+    "last_updated": "2026-11-13T21:27:38.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
