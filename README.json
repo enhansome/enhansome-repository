@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mntnr",
             "repo": "awesome-contributing",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "awesome",
               "awesome-list",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:07:21Z",
+            "last_commit": "2026-11-15T19:08:27Z",
             "open_issues": 414,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24169,
+            "stars": 24171,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:58:45.748Z",
+    "last_updated": "2026-11-15T20:26:14.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
