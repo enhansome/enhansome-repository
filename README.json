@@ -80,7 +80,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1562,
+            "stars": 1564,
             "topics": [
               "angular",
               "cla",
@@ -131,11 +131,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T19:08:27Z",
-            "open_issues": 414,
+            "last_commit": "2026-11-16T18:49:45Z",
+            "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24171,
+            "stars": 24178,
             "topics": [
               "automation",
               "changelog",
@@ -169,7 +169,7 @@
             "open_issues": 5,
             "owner": "pengwynn",
             "repo": "flint",
-            "stars": 1183,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -186,7 +186,7 @@
             "id": 79733281,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-14T03:06:30Z",
+            "last_commit": "2026-11-16T19:04:15Z",
             "open_issues": 90,
             "owner": "repository-settings",
             "repo": "app",
@@ -272,7 +272,7 @@
             "open_issues": 129,
             "owner": "github-changelog-generator",
             "repo": "github-changelog-generator",
-            "stars": 7544,
+            "stars": 7545,
             "topics": [
               "changelog",
               "changelog-generator",
@@ -304,7 +304,7 @@
             "open_issues": 29,
             "owner": "thlorenz",
             "repo": "doctoc",
-            "stars": 4475,
+            "stars": 4476,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:15.726Z"
@@ -321,8 +321,8 @@
             "id": 48847600,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:42:19Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-16T23:34:22Z",
+            "open_issues": 2,
             "owner": "cookpete",
             "repo": "auto-changelog",
             "stars": 1404,
@@ -342,8 +342,8 @@
             "id": 48647797,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T07:57:00Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-16T15:01:42Z",
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
             "stars": 931,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:26:14.203Z",
+    "last_updated": "2026-11-16T23:46:21.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of services, tools and standards about (open source) repository management.",
